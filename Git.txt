@@ -7,3 +7,6 @@ git init
 git status
 git add .
 git -commit -m ""
+
+
+Why dont i study enough!!!!
